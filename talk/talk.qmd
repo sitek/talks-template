@@ -1,13 +1,13 @@
 ---
 title: "Talk template" 
-author: Russ Poldrack
-institute: Stanford University
+author: Kevin R. Sitek
+institute: Northwestern University
 title-slide-attributes:
-    data-background-image: ./images/stanford_background.jpg
-    data-background-opacity: "0.5"
+    data-background-image: ./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png
+    data-background-opacity: "0.25"
 format:
   revealjs: 
-    footer: "https://poldrack.github.io/talks-template/"
+    footer: "https://sitek.github.io/talks-template/"
     slide-number: true
     chalkboard: 
       buttons: false
